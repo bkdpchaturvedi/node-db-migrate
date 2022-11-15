@@ -17,3 +17,5 @@ coverage.html
 
 # Vim swap files
 .*.sw[a-z]
+bin/db-migrate
+package-lock.json
